@@ -1,0 +1,40 @@
+.menu_logo .logo {
+  background-repeat: repeat-x;
+  background-size: contain;
+  width: 100%; }
+  .menu_logo .logo p {
+    font-size: 1.5cm;
+    text-align: center;
+    color: black;
+    font-family: gugi-regular; }
+  .menu_logo .logo .wheel {
+    width: 1.5cm; }
+
+.map {
+  width: 100%;
+  height: 450px; }
+
+nav {
+  color: black;
+  font-family: arial;
+  font-weight: bold;
+  padding: 20px 0;
+  font-family: concertone-regular; }
+
+img.perfil {
+  max-width: 30%;
+  border-radius: 50%;
+  display: block;
+  margin: auto; }
+
+.datos {
+  text-align: center; }
+
+.wellcome {
+  width: 150px;
+  height: 150px; }
+
+.wellcome:required {
+  background-color: blue; }
+
+/*# sourceMappingURL=wemove.css.map */

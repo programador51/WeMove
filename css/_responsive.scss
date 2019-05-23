@@ -1,0 +1,31 @@
+@media screen and  (max-width: 768px){
+		.menu_logo{
+		.logo{
+			background-repeat: repeat-x;
+			background-size: contain;
+			width: 100%;
+			p{	
+				font-size:0.7cm;
+				text-align: center;
+				color:black;
+				font-family:gugi-regular;			
+			}
+			//Estilo de la imagen del logotipo
+			.wheel{
+				width: 0.7cm;
+			}
+		}
+	}
+	.icono{
+		max-width: 0.7cm;
+		max-height: 0.7cm;
+	}
+
+	.registro{
+		background: white;
+		text-align: center;
+		border-radius:10px;
+		padding:0 10px;
+		border:3px solid black;
+	}	
+}

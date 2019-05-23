@@ -1,0 +1,24 @@
+@font-face {
+	font-family:gugi-regular;
+	src:url(../fuentes/sourcesans/Gugi-Regular.ttf);
+}
+
+@font-face {
+	font-family:raleway-regular;
+	src:url(../fuentes/sourcesans/Raleway-Regular.ttf);
+}
+
+@font-face {
+	font-family:dohyeon-regular;
+	src:url(../fuentes/sourcesans/DoHyeon-Regular.ttf);
+}
+
+@font-face {
+	font-family:concertone-regular;
+	src:url(../fuentes/sourcesans/ConcertOne-Regular.ttf);
+}
+
+@font-face {
+	font-family:zcool-regular;
+	src:url(../fuentes/sourcesans/ZCOOLQingKeHuangYou-Regular.ttf);
+}
